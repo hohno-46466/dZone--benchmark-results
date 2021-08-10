@@ -12,9 +12,13 @@ This repository contains the results of various benchmark tests
      │   ├── Geekbench5-[hohno-R95-2021N]-20210805.md
      │   ├── Geekbench5-[hohno-SP6-2019H]-20210805.md
      │   ├── Geekbench5-[hohno-iPad-Gen7]-20210614.md
-     │   └── Geekbench5-[template]-20YYMMDD.md
-     ├── Octane
+     │   ├── Geekbench5-[template]-20YYMMDD.md
+     │   └── README.md
+     ├── Octane2.0
+     │   └── README.md
      ├── README.md
      └── UNIXbench
+         └── README.md
      
-     3 directories, 8 files ( Wed Aug 11 07:36:04 JST 2021 )
+     3 directories, 11 files (Wed Aug 11 08:01:43 JST 2021)
+     
