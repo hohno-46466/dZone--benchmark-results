@@ -1,5 +1,5 @@
 
-Geekbench5 Results
+Geekbench5 Results (Geekbench5-[template]-20YYMMDD.md)
 
 (1) CPU: https://browser.geekbench.com/v5/cpu/0
 

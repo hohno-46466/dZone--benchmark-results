@@ -1,5 +1,7 @@
 # dZone--data--benchmarkResults
 
+https://github.com/hohno-46466/dZone--data--benchmarkResults
+
 This repository contains the results of various benchmark tests
 
      dZone--data--benchmarkResults
@@ -9,7 +11,7 @@ This repository contains the results of various benchmark tests
      │   ├── Geekbench5-[hohno-MBP-2016B]-20210805.md
      │   ├── Geekbench5-[hohno-R95-2021N]-20210805.md
      │   ├── Geekbench5-[hohno-SP6-2019H]-20210805.md
-     │   ├── Geekbench5-[hohno-iPad7]-20210614.md
+     │   ├── Geekbench5-[hohno-iPad-Gen7]-20210614.md
      │   └── Geekbench5-[template]-20YYMMDD.md
      ├── Octane
      ├── README.md
