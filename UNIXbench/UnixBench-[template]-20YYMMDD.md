@@ -1,3 +1,3 @@
-Unix Bench Results (UnixBench-[template]-20YYMMDD.md)
+UnixBench Results (UnixBench-[template]-20YYMMDD.md)
 
 -EOF-
