@@ -30,11 +30,11 @@ Directory Structure:
      ├── README.md
      └── UNIXbench
          ├── README.md
-         ├── UnixBench-[hohno-AX3-2020J]-202108DD.md
-         ├── UnixBench-[hohno-EEU-2020C]-202108DD.md
-         ├── UnixBench-[hohno-MBP-2016B]-202108DD.md
-         ├── UnixBench-[hohno-R95-2021N]-202108DD.md
-         ├── UnixBench-[hohno-SP6-2019H]-202108DD.md
+         ├── UnixBench-[hohno-AX3-2020J]-202108DD.md  # Not yet prepared (empty)
+         ├── UnixBench-[hohno-EEU-2020C]-202108DD.md  # Not yet prepared (empty)
+         ├── UnixBench-[hohno-MBP-2016B]-202108DD.md  # Not yet prepared (empty)
+         ├── UnixBench-[hohno-R95-2021N]-202108DD.md  # Not yet prepared (empty)
+         ├── UnixBench-[hohno-SP6-2019H]-202108DD.md  # Not yet prepared (empty)
          └── UnixBench-[template]-20YYMMDD.md
      
      3 directories, 26 files (Sun 15 Aug 2021 05:39:30 AM JST)
