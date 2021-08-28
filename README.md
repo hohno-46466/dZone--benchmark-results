@@ -4,7 +4,9 @@ https://github.com/hohno-46466/dZone--data--benchmarkResults
 
 This repository contains the results of various benchmark tests
 
-     dZone--data--benchmarkResults
+Directory Structure:
+```
+    dZone--data--benchmarkResults
      ├── Geekbench5
      │   ├── Geekbench5-[hohno-AX3-2020J]-20210805.md
      │   ├── Geekbench5-[hohno-EEU-2020C]-20210318.md
@@ -36,7 +38,20 @@ This repository contains the results of various benchmark tests
          └── UnixBench-[template]-20YYMMDD.md
      
      3 directories, 26 files (Sun 15 Aug 2021 05:39:30 AM JST)
-     
+```
+
+``` 
+* hohno-ACS-penguin - Chromebook
+* hohno-AX3-2020J   - Windows PC (Ryzen 4750G)
+* hohno-EEU-2020C   - Windows PC (Cereron ?)
+* hohno-iPad-Gen7   - iPad 7th Gen
+* hohno-M1M-2021M   - M1 Mac mini
+* hohno-MBP-2016B   - Mac Book Pro (Late 2015)
+* hohno-R95-2021N   - Windows PC (Ryzen 3950)
+* hohno-SP6-2019H   - Windows PC (Surface Pro6)
+``` 
+
+
 Note: 	url = https://github.com/hohno-46466/dZone--data--benchmarkResults
 
 Note:   url = git@github.com:hohno-46466/dZone--data--benchmarkResults.git
