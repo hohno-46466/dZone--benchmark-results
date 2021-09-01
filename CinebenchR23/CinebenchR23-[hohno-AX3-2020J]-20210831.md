@@ -9,10 +9,10 @@ CinebenchR23 Results (CinebenchR23-[hohno-AX3-2020J]-20210831.md)
 ・Single Core (1time)	：  --- pts
 
 [2021-09-01]
-・Multi Core (10min) 	：/  pts
-・Multi Core (1time)	：/  pts
-・Single Core (10min)	：/  pts
-・Single Core (1time)	：/  pts
+・Multi Core (10min) 	：10321 /  pts
+・Multi Core (1time)	：10423 / 10510 pts
+・Single Core (10min)	： 1192 /  pts
+・Single Core (1time)	： 1192 /  pts
 
 [2021-mm-dd]
 ・Multi Core (10min) 	：/  pts
