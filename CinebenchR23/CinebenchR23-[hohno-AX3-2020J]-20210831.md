@@ -1,8 +1,23 @@
-CinebenchR23 Results (CinebenchR23-[hohno-AX3-2020J]-202108DD.md)
+CinebenchR23 Results (CinebenchR23-[hohno-AX3-2020J]-20210831.md)
 
-・本機（AMD Ryzen 7 PRO 4750G, 8 Cores, 16 Threads @ 3.6 GHz）(測定：2020年11月）
-　・Multi Core (10分間) 　：12103 pts
-　・Multi Core (1回)　  　：12507 / 11714 pts
-　・Single Core (10分間)　： 1304 /  1265 pts
+・hohno-AX3-2020J (AMD Ryzen 7 PRO 4750G, 8 Cores, 16 Threads @ 3.6 GHz）
+
+[2020-11-??]
+・Multi Core (10min)	：12103 pts
+・Multi Core (1time)	：12507 / 11714 pts
+・Single Core (10min)	： 1304 /  1265 pts
+・Single Core (1time)	：  --- pts
+
+[2021-09-01]
+・Multi Core (10min) 	：/  pts
+・Multi Core (1time)	：/  pts
+・Single Core (10min)	：/  pts
+・Single Core (1time)	：/  pts
+
+[2021-mm-dd]
+・Multi Core (10min) 	：/  pts
+・Multi Core (1time)	：/  pts
+・Single Core (10min)	：/  pts
+・Single Core (1time)	：/  pts
 
 -EOF-
