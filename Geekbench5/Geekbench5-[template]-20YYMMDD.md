@@ -6,9 +6,9 @@ Geekbench5 Results (Geekbench5-[template]-20YYMMDD.md)
 * Single-Core Score : 0
 * Multi-Core Score  : 0
 
-(2) Compute: https://browser.geekbench.com/v5/compute/0
+(2) Compute: ---
 
-* OpenCL Score : 0
+* OpenCL Score : ---
 
 See Also:
 https://browser.geekbench.com/user/HiroOhno

@@ -6,7 +6,7 @@ Geekbench5 Results (Geekbench5-[hohno-R95-2021N]-20210805.md)
 * Single-Core Score : 1348
 * Multi-Core Score  : 14104
 
-(2) Compute: https://browser.geekbench.com/v5/compute/0
+(2) Compute: https://browser.geekbench.com/v5/compute/3189815
 
 * OpenCL Score : 63029
 
