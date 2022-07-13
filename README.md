@@ -67,8 +67,8 @@ Directory Structure:
 * hohno-SP6-2019H   - Windows PC (Surface Pro6)
 ``` 
 
-Note: 	url = https://github.com/hohno-46466/dZone--data--benchmarkResults
+Note: url = https://github.com/hohno-46466/dZone--data--benchmarkResults
 
-Note:   url = git@github.com:hohno-46466/dZone--data--benchmarkResults.git
+Note: url = git@github.com:hohno-46466/dZone--data--benchmarkResults.git
 
 -EOF-
