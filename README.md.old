@@ -6,6 +6,7 @@ This repository contains the results of various benchmark tests
 
 Directory Structure:
 
+``` 
     ./dZone--data--benchmarkResults
      ├──  CinebenchR23/
      │   ├── -20210831.md
@@ -44,6 +45,7 @@ Directory Structure:
      │   └──   README.md
      ├──   README.md
      ├──   README.md.old
+     ├──   README.md.orig
      └──  UNIXbench/
          ├──   README.md
          ├── -20210909.md
@@ -53,9 +55,8 @@ Directory Structure:
          ├── -20210909.md
          └── -20YYMMDD.md
      
-     4 directories, 41 files (Wed Jul 13 17:37:27 JST 2022)
-
-
+     4 directories, 42 files (Wed Jul 13 17:40:00 JST 2022)
+``` 
 * hohno-ACS-penguin - Chromebook
 * hohno-AX3-2020J   - Windows PC (Ryzen 4750G)
 * hohno-EEU-2020C   - Windows PC (Cereron ?)
@@ -64,10 +65,9 @@ Directory Structure:
 * hohno-MBP-2016B   - Mac Book Pro (Late 2015)
 * hohno-R95-2021N   - Windows PC (Ryzen 3950)
 * hohno-SP6-2019H   - Windows PC (Surface Pro6)
-``` 
 
-Note: 	url = https://github.com/hohno-46466/dZone--data--benchmarkResults
+Note: url = https://github.com/hohno-46466/dZone--data--benchmarkResults
 
-Note:   url = git@github.com:hohno-46466/dZone--data--benchmarkResults.git
+Note: url = git@github.com:hohno-46466/dZone--data--benchmarkResults.git
 
 -EOF-
