@@ -44,7 +44,6 @@ Directory Structure:
      │   └──   README.md
      ├──   README.md
      ├──   README.md.old
-     ├──   README.md.orig
      └──  UNIXbench/
          ├──   README.md
          ├── -20210909.md
@@ -54,7 +53,7 @@ Directory Structure:
          ├── -20210909.md
          └── -20YYMMDD.md
      
-     4 directories, 42 files (Wed Jul 13 17:40:00 JST 2022)
+     4 directories, 41 files (Wed Jul 13 17:37:27 JST 2022)
 
 
 * hohno-ACS-penguin - Chromebook
