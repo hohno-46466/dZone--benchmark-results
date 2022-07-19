@@ -55,7 +55,8 @@ Directory Structure:
          ├──  UnixBench-[hohno-SP6-2019H]-20210909.md
          └──  UnixBench-[template]-20YYMMDD.md
      
-     4 directories, 42 files (Wed Jul 13 18:44:49 JST 2022)
+     4 directories, 42 files (Wed Jul 20 05:56:27 JST 2022)
+
 
 ``` 
 * hohno-ACS-penguin - Chromebook
