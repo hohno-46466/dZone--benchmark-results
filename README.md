@@ -68,8 +68,8 @@ Directory Structure:
 * hohno-R95-2021N   - Windows PC (Ryzen 3950)
 * hohno-SP6-2019H   - Windows PC (Surface Pro6)
 
-Note: url = https://github.com/hohno-46466/dZone--data--benchmarkResults
+Note: URL = https://github.com/hohno-46466/dZone--data--benchmarkResults
 
-Note: url = git@github.com:hohno-46466/dZone--data--benchmarkResults.git
+Note: URL = git@github.com:hohno-46466/dZone--data--benchmarkResults.git
 
 -EOF-
