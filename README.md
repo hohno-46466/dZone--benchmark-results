@@ -55,7 +55,7 @@ Directory Structure:
          ├──  UnixBench-[hohno-SP6-2019H]-20210909.md
          └──  UnixBench-[template]-20YYMMDD.md
      
-     4 directories, 42 files (Sun Aug 28 21:29:37 JST 2022)
+     4 directories, 42 files (Mon Sep  5 19:33:08 JST 2022)
 
 
 ``` 
