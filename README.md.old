@@ -7,7 +7,7 @@ This repository contains the results of various benchmark tests
 Directory Structure:
 
 ``` 
-    ./dZone--data--benchmarkResults
+     ./dZone--data--benchmarkResults
      ├──  CinebenchR23/
      │   ├──  CinebenchR23-[hohno-AX3-2020J]-20210831.md
      │   ├──  CinebenchR23-[hohno-EEU-2020C]-202108DD.md
@@ -55,7 +55,7 @@ Directory Structure:
          ├──  UnixBench-[hohno-SP6-2019H]-20210909.md
          └──  UnixBench-[template]-20YYMMDD.md
      
-     4 directories, 42 files (Mon Sep  5 19:33:08 JST 2022)
+     4 directories, 42 files (Fri Sep  9 06:46:31 JST 2022)
 
 
 ``` 
